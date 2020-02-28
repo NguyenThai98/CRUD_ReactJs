@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "name": "thien",
+        "tel": "02930113393",
+        "permisstion": 1
+    },
+    {
+        "id": 2,
+        "name": "thinh",
+        "tel": "092913304551",
+        "permisstion": 1
+    },
+    {
+        "id": 3,
+        "name": "trung",
+        "tel": "02932222222",
+        "permisstion": 2
+    },
+    {
+        "id": 4,
+        "name": "trang",
+        "tel": "029311111111",
+        "permisstion": 3
+    },
+    {
+        "id": 5,
+        "name": "nguyen thai 5",
+        "tel": "02930113393",
+        "permisstion": 2
+    }
+    
+]
